@@ -1,0 +1,38 @@
+body{
+    background-image:url(./img/fondoopro.png);
+    background-size: 50%;
+    background-repeat: repeat;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Bungee', cursive;
+    color: white;
+    margin-top: 40px;   
+    font-size: 100px;
+    text-shadow: 0 0 5px green, 0 0 15px green, 0 0 30px green, 0 0 50px green;
+    margin-top: -40px;
+}
+
+
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+    width: 400px;
+    height: 50px;
+    border-color: black;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 19px;
+}
+
+p{
+    font-family: 'Bungee', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    text-shadow:  0 0 5px rgb(7, 7, 96), 0 0 15px rgb(20, 8, 148), 0 0 30px rgb(91, 39, 222), 0 0 50px rgb(59, 59, 240);
+    margin-top: -25px;
+}
